@@ -1,0 +1,13 @@
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\obj\Debug\netcoreapp3.1\Uravnenie.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\obj\Debug\netcoreapp3.1\Uravnenie.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\obj\Debug\netcoreapp3.1\Uravnenie.AssemblyInfo.cs
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\obj\Debug\netcoreapp3.1\Uravnenie.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\bin\Debug\netcoreapp3.1\Uravnenie.exe
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\bin\Debug\netcoreapp3.1\Uravnenie.deps.json
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\bin\Debug\netcoreapp3.1\Uravnenie.runtimeconfig.json
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\bin\Debug\netcoreapp3.1\Uravnenie.runtimeconfig.dev.json
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\bin\Debug\netcoreapp3.1\Uravnenie.dll
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\bin\Debug\netcoreapp3.1\Uravnenie.pdb
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\obj\Debug\netcoreapp3.1\Uravnenie.dll
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\obj\Debug\netcoreapp3.1\Uravnenie.pdb
+C:\Users\Home\source\repos\Uravnenie\Uravnenie\obj\Debug\netcoreapp3.1\Uravnenie.genruntimeconfig.cache
