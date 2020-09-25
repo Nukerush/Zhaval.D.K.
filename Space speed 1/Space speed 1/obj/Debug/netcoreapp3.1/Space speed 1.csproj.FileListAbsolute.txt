@@ -1,0 +1,13 @@
+D:\.Programms\Space speed 1\Space speed 1\obj\Debug\netcoreapp3.1\Space speed 1.csprojAssemblyReference.cache
+D:\.Programms\Space speed 1\Space speed 1\obj\Debug\netcoreapp3.1\Space speed 1.AssemblyInfoInputs.cache
+D:\.Programms\Space speed 1\Space speed 1\obj\Debug\netcoreapp3.1\Space speed 1.AssemblyInfo.cs
+D:\.Programms\Space speed 1\Space speed 1\obj\Debug\netcoreapp3.1\Space speed 1.csproj.CoreCompileInputs.cache
+D:\.Programms\Space speed 1\Space speed 1\bin\Debug\netcoreapp3.1\Space speed 1.exe
+D:\.Programms\Space speed 1\Space speed 1\bin\Debug\netcoreapp3.1\Space speed 1.deps.json
+D:\.Programms\Space speed 1\Space speed 1\bin\Debug\netcoreapp3.1\Space speed 1.runtimeconfig.json
+D:\.Programms\Space speed 1\Space speed 1\bin\Debug\netcoreapp3.1\Space speed 1.runtimeconfig.dev.json
+D:\.Programms\Space speed 1\Space speed 1\bin\Debug\netcoreapp3.1\Space speed 1.dll
+D:\.Programms\Space speed 1\Space speed 1\bin\Debug\netcoreapp3.1\Space speed 1.pdb
+D:\.Programms\Space speed 1\Space speed 1\obj\Debug\netcoreapp3.1\Space speed 1.dll
+D:\.Programms\Space speed 1\Space speed 1\obj\Debug\netcoreapp3.1\Space speed 1.pdb
+D:\.Programms\Space speed 1\Space speed 1\obj\Debug\netcoreapp3.1\Space speed 1.genruntimeconfig.cache
